@@ -62,6 +62,8 @@ In this step, you will install MySQL Server software on the 'mysql server' and M
     ```bash
     sudo apt install mysql-server
     ```
+![Alt text](<CLIENT-SERVER ARCHITECTURE WITH MYSQL/IMAGES/install msql.png>)
+
 
    During the installation, you will be prompted to set a root password for the MySQL Server.
 
@@ -70,10 +72,12 @@ In this step, you will install MySQL Server software on the 'mysql server' and M
     ```bash
     sudo mysql_secure_installation
     ```
+![Alt text](<CLIENT-SERVER ARCHITECTURE WITH MYSQL/IMAGES/sudo mysql_secure_installation.png>)
+
 
    Follow the prompts to configure the security options. This script will help you set a root password, remove anonymous users, disallow root login remotely, and remove the test database.
 
-![Alt text](<CLIENT-SERVER ARCHITECTURE WITH MYSQL/IMAGES/install msql.png>)
+
 
 
 ### Installing MySQL Client on 'mysql client'
