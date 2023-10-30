@@ -195,3 +195,7 @@ SHOW DATABASES;
 If you see a list of databases, then you have successfully completed the project and deployed a fully functional MySQL Client-Server setup.
 
 ![Alt text](<CLIENT-SERVER ARCHITECTURE WITH MYSQL/IMAGES/show database.png>)
+
+
+### Conclusion
+You have successfully created a database and a user in your MySQL server. These steps allow you to manage your database and user permissions effectively. You can now proceed with any SQL operations on your database using the newly created user.
